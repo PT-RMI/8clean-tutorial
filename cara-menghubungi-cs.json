@@ -1,0 +1,20 @@
+[
+    {
+        "sequence" : 1,
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/hubungiCs/gambar1.png",
+        "title": "Halaman Profil Saya",
+        "description" : "Pergi ke halaman Profil Saya."
+    },
+    {
+        "sequence" : 2,
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/hubungiCs/gambar2.png",
+        "title": "Tombol Pusat Bantuan",
+        "description" : "Klik Pusat Bantuan dan Anda akan dialihkan ke Whatsapp yang sudah terhubung dengan tim CS kami."
+    },
+    {
+        "sequence" : 3,
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/hubungiCs/gambar3.png",
+        "title": "Tombol Hubungi Kami",
+        "description" : "Tombol untuk menghubungi CS juga terdapat pada halaman lain seperti detail lokasi, detail aktivitas pencucian, dan bila pembayaran gagal."
+    }
+]
