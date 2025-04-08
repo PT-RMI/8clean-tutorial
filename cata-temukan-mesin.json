@@ -1,0 +1,20 @@
+[
+    {
+        "sequence" : 1,
+        "image" : "hhttps://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/temukanMesin/gambar1.png",
+        "title": "Temukan Lokasi 8Clean Terdekat",
+        "description" : "Klik Temukan Lokasi 8Clean Terdekat pada halaman Beranda."
+    },
+    {
+        "sequence" : 2,
+        "image" : "hhttps://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/temukanMesin/gambar2.png",
+        "title": "Rekomendasi Lokasi Mesin Terdekat",
+        "description" : "KlikKlik Cari Lokasi untuk menemukan lokasi yang Anda inginkan."
+    },
+    {
+        "sequence" : 3,
+        "image" : "hhttps://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/temukanMesin/gambar3.png",
+        "title": "Lihat Lokasi Mesin",
+        "description" : "Klik Lihat Lokasi untuk mengakses google maps menuju lokasi mesin 8Clean tersebut."
+    }
+]
