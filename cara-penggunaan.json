@@ -1,0 +1,22 @@
+[
+    {
+        "sequence": 1,
+        "image" : "https://example.com/image1.jpg",
+        "text": "This is the first image"
+    },
+    {
+        "sequence": 2,
+        "image" : "https://example.com/image2.jpg",
+        "text": "This is the second image"
+    },
+    {
+        "sequence": 3,
+        "image" : "https://example.com/image3.jpg",
+        "text": "This is the third image"
+    },
+    {
+        "sequence": 4,
+        "image" : "https://example.com/image4.jpg",
+        "text": "This is the fourth image"
+    }
+]
