@@ -1,22 +1,56 @@
 [
     {
         "sequence": 1,
-        "image" : "https://example.com/image1.jpg",
-        "text": "This is the first image"
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar1.png",
+        "title": "Temukan Tombol Cuci Helm",
+        "description": "This is the first image"
     },
     {
         "sequence": 2,
-        "image" : "https://example.com/image2.jpg",
-        "text": "This is the second image"
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar2.png",
+        "title" :"Arahkan Kamera ke QR Code",
+        "description": "Arahkan kamera perangkat Anda pada QR code mesin 8Clean."
     },
     {
         "sequence": 3,
-        "image" : "https://example.com/image3.jpg",
-        "text": "This is the third image"
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar3.png",
+        "title" :"Pindai QR Code",
+        "description": "Temukan posisi scan yang benar hingga muncul 'QR Code Berhasil Dipindai'."
     },
     {
         "sequence": 4,
-        "image" : "https://example.com/image4.jpg",
-        "text": "This is the fourth image"
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar4.png",
+        "title" : "Tangkap QR Code",
+        "description": "Klik tombol Kamera untuk menangkap QR code mesin."
+    },
+    {
+        "sequence": 5,
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar5.png",
+        "title" : "Detail Pemesanan",
+        "description" : "Periksa detail pencucian helm sebelum lanjut ke pembayaran. Gunakan voucher jika tersedia."
+    },
+    {
+        "sequence": 6,
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar6.png",
+        "title" : "Lanjut ke Pembayaran",
+        "description": "Klik Lanjut ke Pembayaran untuk mengonfirmasi pemesanan."
+    },
+    {
+        "sequence": 7,
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar7.png",
+        "title" : "Informasi Pembayaran",
+        "description": "Anda bisa melihat QR code dan panduan pembayaran. Lakukan pembayaran melalui e-wallet atau mobile banking."
+    },
+    {
+        "sequence": 8,
+        "image" :"https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar8.png",
+        "title": "Pembayaran Berhasil",
+        "description": "Jika pembayaran berhasil maka Anda akan dialihkan ke halaman riwayat pencucian helm."
+    },
+    {
+        "sequence": 9,
+        "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar9.png",
+        "title" : "Proses Pencucian Helm",
+        "description" : "Anda bisa memasukkan helm ke dalam mesin dan tutup kembali. Silakan tunggu 8 menit hingga helm selesai dicuci pada mesin 8Clean."
     }
 ]
