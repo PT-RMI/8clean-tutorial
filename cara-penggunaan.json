@@ -3,7 +3,7 @@
         "sequence": 1,
         "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar1.png",
         "title": "Temukan Tombol Cuci Helm",
-        "description": "Klik Cuci Helm pada halaman Beranda."
+        "description": "This is the first image"
     },
     {
         "sequence": 2,
@@ -51,6 +51,6 @@
         "sequence": 9,
         "image" : "https://raw.githubusercontent.com/PT-RMI/8clean-tutorial/refs/heads/main/asset/caraPenggunaan/gambar9.png",
         "title" : "Proses Pencucian Helm",
-        "description" : "Anda bisa memasukkan helm ke dalam mesin dan tutup kembali. Silakan tunggu 8 menit hingga helm selesai dicuci pada mesin 8Clean."
+        "description" : "Anda bisa memasukkan helm ke dalam mesin dan tutup kembali. Silakan tunggu 5 menit hingga helm selesai dicuci pada mesin 8Clean."
     }
 ]
